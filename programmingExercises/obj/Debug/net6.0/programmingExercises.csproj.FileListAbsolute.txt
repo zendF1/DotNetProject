@@ -1,0 +1,15 @@
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/obj/Debug/net6.0/programmingExercises.csproj.AssemblyReference.cache
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/obj/Debug/net6.0/programmingExercises.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/obj/Debug/net6.0/programmingExercises.AssemblyInfoInputs.cache
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/obj/Debug/net6.0/programmingExercises.AssemblyInfo.cs
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/obj/Debug/net6.0/programmingExercises.csproj.CoreCompileInputs.cache
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/bin/Debug/net6.0/programmingExercises
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/bin/Debug/net6.0/programmingExercises.deps.json
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/bin/Debug/net6.0/programmingExercises.runtimeconfig.json
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/bin/Debug/net6.0/programmingExercises.dll
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/bin/Debug/net6.0/programmingExercises.pdb
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/obj/Debug/net6.0/programmingExercises.dll
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/obj/Debug/net6.0/refint/programmingExercises.dll
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/obj/Debug/net6.0/programmingExercises.pdb
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/obj/Debug/net6.0/programmingExercises.genruntimeconfig.cache
+/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/obj/Debug/net6.0/ref/programmingExercises.dll

@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace programmingExercises
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            Exercises1 exercises1 = new Exercises1();
+            exercises1.Test();
+        }
+
+    }
+}
