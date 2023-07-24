@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/rivera/.nuget/packages/": {}
+    "/Users/tussmacbookpro/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/programmingExercises.csproj",
+      "projectUniqueName": "/Users/tussmacbookpro/GitHub/DotNetProject/programmingExercises/programmingExercises.csproj",
       "projectName": "programmingExercises",
-      "projectPath": "/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/programmingExercises.csproj",
-      "packagesPath": "/Users/rivera/.nuget/packages/",
-      "outputPath": "/Applications/projects/Research/Baitap/DotNetProject/programmingExercises/obj/",
+      "projectPath": "/Users/tussmacbookpro/GitHub/DotNetProject/programmingExercises/programmingExercises.csproj",
+      "packagesPath": "/Users/tussmacbookpro/.nuget/packages/",
+      "outputPath": "/Users/tussmacbookpro/GitHub/DotNetProject/programmingExercises/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rivera/.nuget/NuGet/NuGet.Config"
+        "/Users/tussmacbookpro/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
       }
     }
   }

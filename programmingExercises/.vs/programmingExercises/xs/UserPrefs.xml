@@ -1,16 +1,14 @@
 ﻿<Properties StartupConfiguration="{65073ACF-C4DB-4748-85D2-89F74D962189}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="11" Column="2" />
+      <File FileName="Program.cs" Line="12" Column="2" />
+      <File FileName="Exercises1.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="programmingExercises" expanded="True">
             <Node name="programmingExercises" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-              </Node>
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
